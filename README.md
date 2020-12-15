@@ -21,8 +21,8 @@ Code is also hosted on Amazon S3.
 * Creating jar file
 * Run and test the application on AWS
 
-### `The detail code is available as graphXScalaAWS.scala file`
-### `The code with output is available as markdown in graphXScalaDatabricks.html file`
+### The detail code is available as `graphXScalaAWS.scala` file
+### The code with output is available as markdown in `graphXScalaDatabricks.html` file
 
 # Questions Adddressed:
 
