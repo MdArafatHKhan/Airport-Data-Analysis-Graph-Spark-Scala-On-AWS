@@ -24,7 +24,7 @@ Code is also hosted on Amazon S3.
 ### The detail code is available as `graphXScalaAWS.scala` file
 ### The code with output is available as markdown in `graphXScalaDatabricks.html` file
 
-# Questions Adddressed:
+# Sample Questions: (This project can be extended to answer other complicated questions)
 
 * Find the total number of airports (vertices) and the total flights connecting them.
 For example, if there are two airports: DFW and IAH, and there are 7 flights between them,
