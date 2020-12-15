@@ -22,7 +22,7 @@ Code is also hosted on Amazon S3.
 * Run and test the application on AWS
 
 ### The detail code is available as `graphXScalaAWS.scala` file
-### The code with output is available as markdown in `graphXScalaDatabricks.html` file
+### The code with output is available as markdown in `graphXScalaDatabricks.txt` file. Save it as `html` in local computer and open to see.
 
 # Sample Questions: (This project can be extended to answer other complicated questions)
 
