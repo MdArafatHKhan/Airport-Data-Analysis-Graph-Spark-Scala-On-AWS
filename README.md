@@ -15,14 +15,14 @@ Program Arguments: The class has three parameters:
   
 Code is also hosted on Amazon S3.
 
-# Steps (Please follow `Documentation.pdf` file for more detail)
+### Steps (Please follow `Documentation.pdf` file for more detail)
 * Development Stage on Databricks
 * Development Stage on IntelliJ IDEA
 * Creating jar file
 * Run and test the application on AWS
 
-## `The detail code is available as graphXScalaAWS.scala file`
-## `The code with output is available as markdown in graphXScalaDatabricks.html file`
+### `The detail code is available as graphXScalaAWS.scala file`
+### `The code with output is available as markdown in graphXScalaDatabricks.html file`
 
 # Questions Adddressed:
 
