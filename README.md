@@ -23,7 +23,7 @@ Code is also hosted on Amazon S3.
 
 ### The detail code is available as `graphXScalaAWS.scala` file
 
-# Sample Questions: (This project can be extended to answer other complicated questions)
+# Sample Questions Addressed:
 
 * Find the total number of airports (vertices) and the total flights connecting them.
 For example, if there are two airports: DFW and IAH, and there are 7 flights between them,
@@ -37,3 +37,5 @@ airport.
 * Understand the concept of motif search from this page: https://databricks.com/blog/2016/
 03/03/introducing-graphframes.html and find all such triplets A, B, and C such that there
 is at least one flight from A to B, and from B to C, but no direct flight from A to C.
+
+### (This project can be extended to answer other complicated questions)
